@@ -1,0 +1,122 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+
+.w {
+    background-image: url("images/food2.jpg");
+}
+
+.a {
+    background-image: url("images/medicine.jpg");
+}
+
+.s {
+    background-image: url("images/pain.jpg");
+}
+
+.d {
+    background-image: url("images/sos.jpeg");
+}
+
+.j {
+    background-image: url("images/toilet.jpg");
+}
+
+.k {
+    background-image: url("images/position.png");
+}
+
+.l {
+    background-image: url("images/nurse.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.tab1{
+  text-align: center;
+  padding-left: 8rem;
+  }
+  .tab2{
+    text-align: center;
+    padding-left: 7rem;
+
+  }
+  .tab3{
+    text-align: center;
+    padding-left: 8rem;
+
+  }
+  .tab4{
+    text-align: center;
+    padding-left: 7rem;
+
+  }
+  .tab5{
+    text-align: center;
+    padding-left: 3.5rem;
+
+  }
+  .tab6{
+    text-align: center;
+    padding-left: 5rem;
+
+  }
+  .tab7{
+    text-align: center;
+    padding-left: 7rem;
+
+  }
+
+.block {
+  outline: none;
+  border: 10px solid #404B69;
+  font-size: 1.5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+  background-size: 100%;
+
+}
+
+.block1{
+  font-size: 1.5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+}
